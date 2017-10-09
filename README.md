@@ -1,6 +1,6 @@
 # go-voucherify
 
-Generate unique, hard to guess coupon, voucher codes.
+Generate unique, hard to guess coupon, voucher codes. Write purely in Go
 
 Use cases: promo codes, loyalty coupons, gift vouchers, in-app purchases
 
