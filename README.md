@@ -10,5 +10,5 @@ This library originates from Voucherify.
 
 This package is a go getable package.
 
-``$ go get github.com/dhiemaz/health``
+``$ go get github.com/dhiemaz/go-voucherify``
 
