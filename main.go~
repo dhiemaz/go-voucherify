@@ -1,0 +1,17 @@
+package main
+
+import (
+	"math"
+	"math/rand"
+)
+
+func main(){
+
+}
+
+
+func randomInt(min, max uint) uint{
+
+	return math.Floor(math.
+	
+}
