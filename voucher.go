@@ -1,6 +1,6 @@
 package voucher
 
-// Generat, generate voucher //
+// Generate, generate voucher //
 // input configuration.Config
 func Generate(input string) []string {
 
