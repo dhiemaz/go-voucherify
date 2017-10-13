@@ -21,7 +21,7 @@ func setCharset(name string) string {
 	return charsets[name]
 }
 
-// Config, sets the option specifed //
+// Config, sets the option specified //
 // input option
 func (o *Config) Config(opts ...option) {
 	for _, opt := range opts {
