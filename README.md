@@ -8,21 +8,21 @@ Use cases: promo codes, loyalty coupons, gift vouchers, in-app purchases
 
 This library originates from Voucherify.
 
-# Motivation
+## Motivation
 
 There is no library as far as I have search for generating voucher or promo codes in Go.
 
-# Inspiration
+## Inspiration
 
-I took a lot of ideas from the [voucherify]http://generator.voucherify.io/#).
+I took a lot of ideas from the [voucherify](http://generator.voucherify.io/#).
 
-# Installation
+## Installation
 
 This package is a go getable package.
 
 ``$ go get github.com/dhiemaz/go-voucherify``
 
-# Example
+## Example
 
 ```go
 package main
@@ -41,7 +41,7 @@ func main() {
 }
 ```
 
-# LICENSE
+## LICENSE
 
 The MIT License (MIT)
 
